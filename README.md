@@ -37,7 +37,7 @@ A Digital Change Management System comprising the following microservices:
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/dcms.git
+   https://github.com/jd4643/Digital_change_Management_sytem.git
 
 
 
