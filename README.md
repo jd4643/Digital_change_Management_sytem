@@ -50,7 +50,9 @@ Integration with loyalty programs and third-party services.
 For questions or contributions, reach out to:
 
 **Name**: Jawad Mohammed
-**Emai**l: jawatech8080@gmail.com
+
+**Email**: jawatech8080@gmail.com
+
 **LinkedIn**: [Jawad Mohammed](https://www.linkedin.com/in/jawad-mohammed-83a256196/)
 
 
