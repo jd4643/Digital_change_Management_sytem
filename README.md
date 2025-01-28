@@ -39,3 +39,21 @@ A Digital Change Management System comprising the following microservices:
    ```bash
    git clone https://github.com/yourusername/dcms.git
 
+
+
+## Future Enhancements
+AI-driven analytics for transaction trends.
+Integration with loyalty programs and third-party services.
+
+
+## Contact
+For questions or contributions, reach out to:
+
+**Name**: Jawad Mohammed
+**Emai**l: jawatech8080@gmail.com
+**LinkedIn**: [Jawad Mohammed](https://www.linkedin.com/in/jawad-mohammed-83a256196/)
+
+
+## Contributions, issues, and feature requests are welcome! Feel free to fork this repository and improve DCMS.
+You can customize the details like repository name, URLs, and contact info as needed. Let me know if you’d like further tweaks!   
+
